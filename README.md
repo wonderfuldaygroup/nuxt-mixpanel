@@ -141,7 +141,7 @@ this.$mixpanel.track('event name', {
 
 1. Clone this repository
 2. Install dependencies using `yarn install` or `npm install`
-3. Start development server using `yarn dev` or `MIXPANEL_TOKEN=<your mixpanel token> yarn dev` if you want to provide custom MIXPANEL_TOKEN.
+3. Start development server using `yarn dev` or `MIXPANEL_ID=<your mixpanel token> yarn dev` if you want to provide custom MIXPANEL_TOKEN.
 
 ## Contributors
 

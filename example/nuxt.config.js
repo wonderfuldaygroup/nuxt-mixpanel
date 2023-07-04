@@ -16,12 +16,12 @@ module.exports = {
   plugins: [
     '~/plugins/mixpanel'
   ],
-  gtm: {
+  mixpanel: {
     id: process.env.MIXPANEL_ID || '',
     pageTracking: true
   },
   publicRuntimeConfig: {
-    gtm: {
+    mixpanel: {
       id: 'TOKEN'
     }
   }
