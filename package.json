@@ -1,6 +1,6 @@
 {
   "name": "@wonderfulday/nuxt-mixpanel",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Mixpanel Module for Nuxt.js",
   "repository": "wonderfuldaygroup/nuxt-mixpanel",
   "license": "MIT",
