@@ -2,8 +2,6 @@
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![Checks][checks-src]][checks-href]
-[![Codecov][codecov-src]][codecov-href]
 [![License][license-src]][license-href]
 
 > Mixpanel Module for Nuxt.js
@@ -162,12 +160,6 @@ Copyright (c) Wonderfulday
 
 [npm-downloads-src]: https://img.shields.io/npm/dt/@wonderfulday/nuxt-mixpanel.svg?style=flat-square
 [npm-downloads-href]: https://npmjs.com/package/@wonderfulday/nuxt-mixpanel
-
-[checks-src]: https://img.shields.io/github/workflow/status/@wonderfulday/nuxt-mixpanel/test/master?style=flat-square
-[checks-href]: https://github.com/@wonderfulday/nuxt-mixpanel/actions
-
-[codecov-src]: https://img.shields.io/codecov/c/github/@wonderfulday/nuxt-mixpanel.svg?style=flat-square
-[codecov-href]: https://codecov.io/gh/@wonderfulday/nuxt-mixpanel
 
 [license-src]: https://img.shields.io/npm/l/@wonderfulday/nuxt-mixpanel.svg?style=flat-square
 [license-href]: https://npmjs.com/package/@wonderfulday/nuxt-mixpanel
