@@ -24,7 +24,7 @@ export default {
     '@wonderfulday/nuxt-mixpanel',
   ],
   mixpanel: {
-    token: '',
+    id: '',
     config: {
       debug: true
     }
@@ -42,12 +42,12 @@ export default {
   ],
 
   mixpanel: {
-    token: '', // Used as fallback if no runtime config is provided
+    id: '', // Used as fallback if no runtime config is provided
   },
 
   publicRuntimeConfig: {
     mixpanel: {
-      token: '',
+      id: '',
     }
   },
 }
