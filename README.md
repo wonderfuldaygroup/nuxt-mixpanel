@@ -161,6 +161,7 @@ this.$mixpanel.track('event name', {
 
 - Inspired by [nuxt-community/gtm-module](https://github.com/nuxt-community/gtm-module)
 - [Nikolaj Løvenhardt](https://github.com/nikolajlovenhardt)
+- [Wonderfulday.dk](https://wonderfulday.dk)
 
 ## License
 
