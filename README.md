@@ -65,6 +65,7 @@ export default {
     enabled: true,
 
     id: undefined,
+    windowStorageVariable: 'mixpanelStorage',
 
     pageTracking: false,
     pageViewEventName: 'nuxtRoute',
